@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dolphin", "Dolphin\Dolphin.csproj", "{B6B73144-436E-4125-BF81-7DEB6967D9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B73144-436E-4125-BF81-7DEB6967D9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B73144-436E-4125-BF81-7DEB6967D9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B73144-436E-4125-BF81-7DEB6967D9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B73144-436E-4125-BF81-7DEB6967D9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F941D538-8679-4EAF-8DC7-3D51C81A4F21}
+	EndGlobalSection
+EndGlobal
